@@ -13,11 +13,7 @@ Una aplicación de mensajería en tiempo real desarrollada en Android Studio, qu
 
 ## 📦 Descarga del Proyecto
 El archivo comprimido del proyecto está disponible para su descarga desde el siguiente enlace:  
-
-
-
-
-
+[Descargar archivo](https://drive.google.com/file/d/1GWwAzgsrMbRsRbU7uYL7-oXeb7gLH-ke/view?usp=drive_link)
 
 ---
 
@@ -33,6 +29,7 @@ El archivo comprimido del proyecto está disponible para su descarga desde el si
 
 ## 🖼️ Capturas de Pantalla
 ![image](https://github.com/user-attachments/assets/9cacd4bf-deef-41a2-80c9-3e88b419f362)
+![image](https://github.com/user-attachments/assets/cf57b2be-1171-409f-97b6-d5e0223e87e0)
 
 ---
 
