@@ -28,7 +28,7 @@ El archivo comprimido del proyecto está disponible para su descarga desde el si
 ---
 
 ## 🖼️ Capturas de Pantalla
-![image](https://github.com/user-attachments/assets/9cacd4bf-deef-41a2-80c9-3e88b419f362)
+![image](https://github.com/user-attachments/assets/cb4c907c-ea4c-45c3-a999-f26f6ce0c1a3)
 ![image](https://github.com/user-attachments/assets/cf57b2be-1171-409f-97b6-d5e0223e87e0)
 
 ---
